@@ -1,8 +1,9 @@
 # Retail Sales Analysis with SQL
 
-<img src="https://github.com/user-attachments/assets/261fba76-ccbc-41a9-b283-807f7b3a8457" width="745" height="490" />
+<img src="https://github.com/user-attachments/assets/4cfee941-fe2f-40f4-b448-503a192ac619" width="745" height="490" />
 
 
+![Reatil](https://github.com/user-attachments/assets/4cfee941-fe2f-40f4-b448-503a192ac619)
 
 
 ## Project Overview
