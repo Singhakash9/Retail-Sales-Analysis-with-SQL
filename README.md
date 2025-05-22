@@ -1,5 +1,8 @@
 # Retail Sales Analysis with SQL
 
+![Retail](https://github.com/user-attachments/assets/261fba76-ccbc-41a9-b283-807f7b3a8457)
+
+
 ## Project Overview
 
 **Project Title:** Retail Sales Analysis  
