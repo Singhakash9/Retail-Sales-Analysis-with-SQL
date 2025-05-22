@@ -212,5 +212,5 @@ Key recommendations include investing in high-performing categories, leveraging 
 
 **Project By:** Akash Singh  
 **Email:** [akash.singh@georgebrown.ca](mailto:akash.singh@georgebrown.ca)  
-**LinkedIn:** [https://www.linkedin.com/in/akash-singh-979745147)    
+**LinkedIn:** (https://www.linkedin.com/in/akash-singh-979745147)    
 **Project File:** [https://github.com/Singhakash9/Retail-Sales-Analysis-with-SQL/blob/main/SQL%20Retail%20Sales%20Analysis.sql)
