@@ -1,6 +1,6 @@
 # Retail Sales Analysis with SQL
 
-<img src="https://github.com/user-attachments/assets/4cfee941-fe2f-40f4-b448-503a192ac619" width="745" height="525" />
+<img src="https://github.com/user-attachments/assets/4cfee941-fe2f-40f4-b448-503a192ac619" width="350" height="600" />
 
 
 ## Project Overview
